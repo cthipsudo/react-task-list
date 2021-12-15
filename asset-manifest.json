@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/teact-task-list/static/css/main.ce8472dd.css",
+    "main.js": "/teact-task-list/static/js/main.420a9527.js",
+    "index.html": "/teact-task-list/index.html",
+    "main.ce8472dd.css.map": "/teact-task-list/static/css/main.ce8472dd.css.map",
+    "main.420a9527.js.map": "/teact-task-list/static/js/main.420a9527.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce8472dd.css",
+    "static/js/main.420a9527.js"
+  ]
+}
