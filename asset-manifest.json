@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/teact-task-list/static/css/main.ce8472dd.css",
-    "main.js": "/teact-task-list/static/js/main.420a9527.js",
-    "index.html": "/teact-task-list/index.html",
-    "main.ce8472dd.css.map": "/teact-task-list/static/css/main.ce8472dd.css.map",
-    "main.420a9527.js.map": "/teact-task-list/static/js/main.420a9527.js.map"
+    "main.css": "/react-task-list/static/css/main.ce8472dd.css",
+    "main.js": "/react-task-list/static/js/main.420a9527.js",
+    "index.html": "/react-task-list/index.html",
+    "main.ce8472dd.css.map": "/react-task-list/static/css/main.ce8472dd.css.map",
+    "main.420a9527.js.map": "/react-task-list/static/js/main.420a9527.js.map"
   },
   "entrypoints": [
     "static/css/main.ce8472dd.css",
