@@ -39,4 +39,19 @@
 
 ul {
   list-style-position: inside;
+  list-style-type: none;
+}
+ul li {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+li.task-item span{
+  background-color: red;
+  color: #fff;
+  cursor: pointer;
+  padding: 10px;
 }
