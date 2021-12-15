@@ -5,8 +5,8 @@ const Overview = ({arr}) => {
     <div>
       {/* Task list should be generated here */}
       <ul>
-      {arr.map((task, index) => {
-        return <li key={index}>{task}</li>
+      {arr.map((task) => {
+        return <li key={task.id}>{task.text}</li>
       })}
       </ul>
     </div>
